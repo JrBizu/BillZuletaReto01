@@ -1,4 +1,6 @@
-﻿using Application.UseCases.Transactions.Queries.GetTransactions;
+﻿
+using Application.UseCases.Tareas.Commands.CreateTarea;
+using Application.UseCases.Tareas.Queries.GetTareas;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BillZuletaReto01.Controllers
@@ -11,6 +13,15 @@ namespace BillZuletaReto01.Controllers
         {
             var query = new GetTareasQuery();
             var result = await this.Mediator.Send(query);
+            return this.FromResult(result);
+        }
+
+        [HttpPost]
+        [Route("Crear")]
+        public async Task<IActionResult> Crear(CreateTareaCommandModel model)
+        {
+            var command = this.Mapper.Map<CreateTareaCommand>(model);
+            var result = await this.Mediator.Send(command);
             return this.FromResult(result);
         }
     }

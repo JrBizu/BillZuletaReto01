@@ -1,6 +1,37 @@
 [
   {
     "ContainingType": "BillZuletaReto01.Controllers.TareaController",
+    "Method": "Crear",
+    "RelativePath": "Crear",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "Titulo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Estado",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BillZuletaReto01.Controllers.TareaController",
     "Method": "ListarTodos",
     "RelativePath": "ListarTodos",
     "HttpMethod": "GET",

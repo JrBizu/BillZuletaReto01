@@ -1,35 +1,26 @@
-﻿using Application.UseCases.Common.Handlers;
+﻿using Application.Common.Interfaces;
+using Application.UseCases.Common.Handlers;
 using Application.UseCases.Common.Results;
+using Domain.Entities;
 using MediatR;
 
-namespace Application.UseCases.Transactions.Queries.GetTransactions
+namespace Application.UseCases.Tareas.Queries.GetTareas
 {
-    public class GetTareasQuery : IRequest<Result<GetTareasQueryDto>>
+    public class GetTareasQuery() : IRequest<Result<GetTareasQueryDto>>
     {
-        public class GetTransactionsQueryHandler() : UseCaseHandler, IRequestHandler<GetTareasQuery, Result<GetTareasQueryDto>>
+        public class GetTareasQueryHandler(IRepository<Tarea> repository) : UseCaseHandler, IRequestHandler<GetTareasQuery, Result<GetTareasQueryDto>>
         {
             public async Task<Result<GetTareasQueryDto>> Handle(GetTareasQuery request, CancellationToken cancellationToken)
             {
-                await Task.CompletedTask;
+                var result = await repository.ListarTodosAsync();
 
-                var tareas = new List<GetTareasQueryValueDto>()
+                var tareas = result.Select(x => new GetTareasQueryValueDto
                 {
-                    new GetTareasQueryValueDto()
-                    {
-                        Id = 1,
-                        Value = 1500
-                    },
-                    new GetTareasQueryValueDto()
-                    {
-                        Id = 2,
-                        Value = 3500
-                    },
-                    new GetTareasQueryValueDto()
-                    {
-                        Id = 3,
-                        Value = 4500
-                    }
-                };
+                    Id = x.Id,
+                    Titulo = x.Titulo,
+                    Descripcion = x.Descripcion,
+                    Estado = x.Estado,
+                }).ToList();
 
                 var response = new GetTareasQueryDto()
                 {
@@ -38,24 +29,42 @@ namespace Application.UseCases.Transactions.Queries.GetTransactions
 
                 return Succeded(response);
             }
-
-            //public async Task<Result<GetTransactionsQueryDto>> Handle(GetTransactionsQuery request, CancellationToken cancellationToken)
-            //{
-            //    var result = await repository.GetAllAsync();
-
-            //    var transactions = result.Select(x => new GetTransactionsQueryValueDto
-            //    {
-            //        Id = x.Id,
-            //        Title = x.Title,
-            //    }).ToList();
-
-            //    var response = new GetTransactionsQueryDto()
-            //    {
-            //        Transactions = transactions
-            //    };
-
-            //    return Succeded(response);
-            //}
         }
+
+        //public class GetTareasQueryHandler() : UseCaseHandler, IRequestHandler<GetTareasQuery, Result<GetTareasQueryDto>>
+        //{
+        //    public async Task<Result<GetTareasQueryDto>> Handle(GetTareasQuery request, CancellationToken cancellationToken)
+        //    {
+        //        await Task.CompletedTask;
+
+        //        var tareas = new List<GetTareasQueryValueDto>()
+        //        {
+        //            new GetTareasQueryValueDto()
+        //            {
+        //                Id = 1,
+        //                Value = 1500
+        //            },
+        //            new GetTareasQueryValueDto()
+        //            {
+        //                Id = 2,
+        //                Value = 3500
+        //            },
+        //            new GetTareasQueryValueDto()
+        //            {
+        //                Id = 3,
+        //                Value = 4500
+        //            }
+        //        };
+
+        //        var response = new GetTareasQueryDto()
+        //        {
+        //            Tareas = tareas
+        //        };
+
+        //        return Succeded(response);
+        //    }            
+        //}
+
+
     }
 }

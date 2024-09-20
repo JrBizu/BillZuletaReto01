@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.UseCases.Transactions.Queries.GetTransactions
+namespace Application.UseCases.Tareas.Queries.GetTareas
 {
     public class GetTareasQueryDto
     {
