@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "BillZuletaReto01.Controllers.TareaController",
+    "Method": "ListarTodos",
+    "RelativePath": "ListarTodos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

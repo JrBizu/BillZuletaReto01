@@ -1,0 +1,12 @@
+C:\Users\Zuleta\Documents\CURSOS\MicroserviciosC#Net_LiteThinking\BillZuletaReto01\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\Zuleta\Documents\CURSOS\MicroserviciosC#Net_LiteThinking\BillZuletaReto01\Application\bin\Debug\net8.0\Application.dll
+C:\Users\Zuleta\Documents\CURSOS\MicroserviciosC#Net_LiteThinking\BillZuletaReto01\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\Zuleta\Documents\CURSOS\MicroserviciosC#Net_LiteThinking\BillZuletaReto01\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\Zuleta\Documents\CURSOS\MicroserviciosC#Net_LiteThinking\BillZuletaReto01\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zuleta\Documents\CURSOS\MicroserviciosC#Net_LiteThinking\BillZuletaReto01\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\Zuleta\Documents\CURSOS\MicroserviciosC#Net_LiteThinking\BillZuletaReto01\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\Zuleta\Documents\CURSOS\MicroserviciosC#Net_LiteThinking\BillZuletaReto01\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Zuleta\Documents\CURSOS\MicroserviciosC#Net_LiteThinking\BillZuletaReto01\Application\obj\Debug\net8.0\Application.dll
+C:\Users\Zuleta\Documents\CURSOS\MicroserviciosC#Net_LiteThinking\BillZuletaReto01\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\Zuleta\Documents\CURSOS\MicroserviciosC#Net_LiteThinking\BillZuletaReto01\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\Zuleta\Documents\CURSOS\MicroserviciosC#Net_LiteThinking\BillZuletaReto01\Application\obj\Debug\net8.0\ref\Application.dll
