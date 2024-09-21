@@ -15,11 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="UseCases\Tareas\Commands\RemoveTarea\" />
-    <Folder Include="UseCases\Tareas\Commands\UpdateTarea\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Domain\Domain.csproj" />
   </ItemGroup>
 

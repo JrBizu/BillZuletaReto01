@@ -16,6 +16,15 @@ namespace BillZuletaReto01.Controllers
             return this.FromResult(result);
         }
 
+        //[HttpGet]
+        //[Route("ObtenerPorId/{Id:Guid}")]
+        //public async Task<IActionResult> ObtenerPorId(Guid Id)
+        //{
+        //    var query = new GetTareaPorIdQuery(Id);
+        //    var result = await this.Mediator.Send(query);
+        //    return this.FromResult(result);
+        //}
+
         [HttpPost]
         [Route("Crear")]
         public async Task<IActionResult> Crear(CreateTareaCommandModel model)

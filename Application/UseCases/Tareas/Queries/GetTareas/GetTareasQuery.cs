@@ -6,7 +6,7 @@ using MediatR;
 
 namespace Application.UseCases.Tareas.Queries.GetTareas
 {
-    public class GetTareasQuery() : IRequest<Result<GetTareasQueryDto>>
+    public class GetTareasQuery : IRequest<Result<GetTareasQueryDto>>
     {
         public class GetTareasQueryHandler(IRepository<Tarea> repository) : UseCaseHandler, IRequestHandler<GetTareasQuery, Result<GetTareasQueryDto>>
         {
