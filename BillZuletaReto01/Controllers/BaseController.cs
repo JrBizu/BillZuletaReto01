@@ -12,7 +12,7 @@ namespace BillZuletaReto01.Controllers
 
         protected IMediator Mediator => this._mediator ??= EngineContext.Current.Resolve<IMediator>();
 
-        protected IMapper Mapper => EngineContext.Current.Resolve<Mapper>();
+        protected IMapper Mapper => EngineContext.Current.Resolve<IMapper>();
 
         protected ActionResult FromResult<T>(Result<T> result) => result.ResultType switch
         {

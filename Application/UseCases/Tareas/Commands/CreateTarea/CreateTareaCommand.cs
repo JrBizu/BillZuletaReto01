@@ -10,7 +10,7 @@ namespace Application.UseCases.Tareas.Commands.CreateTarea
 {
     public class CreateTareaCommand : CreateTareaCommandModel, IRequest<Result<CreateTareaCommandDto>>
     {
-        public class CreateTransactionCommandHandler(IRepository<Tarea> repository) : UseCaseHandler, IRequestHandler<CreateTareaCommand, Result<CreateTareaCommandDto>>
+        public class CreateTareaCommandHandler(IRepository<Tarea> repository) : UseCaseHandler, IRequestHandler<CreateTareaCommand, Result<CreateTareaCommandDto>>
         {
             public async Task<Result<CreateTareaCommandDto>> Handle(CreateTareaCommand request, CancellationToken cancellationToken)
             {
