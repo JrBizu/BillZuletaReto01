@@ -11,11 +11,11 @@ namespace Application.UseCases.Tareas.Commands.CreateTarea
             RuleFor(x => x.Id)
                 .NotNull()
                 .NotEmpty()
-                .WithMessage("No tiene ID");
+                .WithMessage("ID es obligatorio");
 
             RuleFor(x => x.Titulo)
                 .NotEmpty()
-                .WithMessage("Debe tener un Título");
+                .WithMessage("Título es obligatorio");
 
             RuleFor(x => x.Descripcion)
                 .NotEmpty()

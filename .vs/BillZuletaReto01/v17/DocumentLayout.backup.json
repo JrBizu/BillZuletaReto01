@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\billzuletareto01\\application\\usecases\\tareas\\queries\\gettareaporid\\gettareaporidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|solutionrelative:application\\usecases\\tareas\\queries\\gettareaporid\\gettareaporidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\billzuletareto01\\application\\usecases\\tareas\\commands\\updatetarea\\updatetareacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|solutionrelative:application\\usecases\\tareas\\commands\\updatetarea\\updatetareacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\billzuletareto01\\application\\usecases\\tareas\\queries\\gettareas\\gettareasquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|solutionrelative:application\\usecases\\tareas\\queries\\gettareas\\gettareasquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D2EAC8F-3B39-4B1B-B47A-5CE8372F3D45}|Infrastructure\\Infrastructure.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\billzuletareto01\\infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2EAC8F-3B39-4B1B-B47A-5CE8372F3D45}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\billzuletareto01\\application\\usecases\\tareas\\commands\\updatetarea\\updatetareacommanddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|solutionrelative:application\\usecases\\tareas\\commands\\updatetarea\\updatetareacommanddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB1B02B6-4768-4D1C-B5F5-0F4A1AD6CB69}|BillZuletaReto01\\BillZuletaReto01.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\billzuletareto01\\billzuletareto01\\controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +23,40 @@
       "RelativeMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|solutionrelative:application\\usecases\\tareas\\commands\\createtarea\\createtareacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\billzuletareto01\\application\\usecases\\tareas\\queries\\gettareas\\gettareasquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|solutionrelative:application\\usecases\\tareas\\queries\\gettareas\\gettareasquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\billzuletareto01\\application\\usecases\\tareas\\commands\\updatetarea\\updatetareacommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|solutionrelative:application\\usecases\\tareas\\commands\\updatetarea\\updatetareacommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\billzuletareto01\\application\\usecases\\tareas\\commands\\updatetarea\\updatetareacommandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|solutionrelative:application\\usecases\\tareas\\commands\\updatetarea\\updatetareacommandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\billzuletareto01\\application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|solutionrelative:application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\billzuletareto01\\application\\usecases\\tareas\\commands\\createtarea\\createtareacommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|solutionrelative:application\\usecases\\tareas\\commands\\createtarea\\createtareacommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB1B02B6-4768-4D1C-B5F5-0F4A1AD6CB69}|BillZuletaReto01\\BillZuletaReto01.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\billzuletareto01\\billzuletareto01\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB1B02B6-4768-4D1C-B5F5-0F4A1AD6CB69}|BillZuletaReto01\\BillZuletaReto01.csproj|solutionrelative:billzuletareto01\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\billzuletareto01\\application\\usecases\\tareas\\queries\\gettareaporid\\gettareaporidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|solutionrelative:application\\usecases\\tareas\\queries\\gettareaporid\\gettareaporidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\billzuletareto01\\application\\usecases\\tareas\\queries\\gettareaporid\\gettareaporidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|solutionrelative:application\\usecases\\tareas\\queries\\gettareaporid\\gettareaporidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\billzuletareto01\\application\\usecases\\tareas\\queries\\gettareaporid\\gettareaporidquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|solutionrelative:application\\usecases\\tareas\\queries\\gettareaporid\\gettareaporidquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\billzuletareto01\\application\\usecases\\tareas\\queries\\gettareas\\gettareasquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|solutionrelative:application\\usecases\\tareas\\queries\\gettareas\\gettareasquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\billzuletareto01\\application\\usecases\\tareas\\queries\\gettareas\\gettareasquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|solutionrelative:application\\usecases\\tareas\\queries\\gettareas\\gettareasquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D2EAC8F-3B39-4B1B-B47A-5CE8372F3D45}|Infrastructure\\Infrastructure.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\billzuletareto01\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,25 +87,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GetTareaPorIdQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Queries\\GetTareaPorId\\GetTareaPorIdQuery.cs",
-              "RelativeDocumentMoniker": "Application\\UseCases\\Tareas\\Queries\\GetTareaPorId\\GetTareaPorIdQuery.cs",
-              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Queries\\GetTareaPorId\\GetTareaPorIdQuery.cs",
-              "RelativeToolTip": "Application\\UseCases\\Tareas\\Queries\\GetTareaPorId\\GetTareaPorIdQuery.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAABNAAAAAAAAAA==",
+              "Title": "UpdateTareaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Commands\\UpdateTarea\\UpdateTareaCommand.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\Tareas\\Commands\\UpdateTarea\\UpdateTareaCommand.cs",
+              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Commands\\UpdateTarea\\UpdateTareaCommand.cs",
+              "RelativeToolTip": "Application\\UseCases\\Tareas\\Commands\\UpdateTarea\\UpdateTareaCommand.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwB4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T01:17:50.857Z",
+              "WhenOpened": "2024-09-24T01:44:12.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "UpdateTareaCommandDto.cs",
+              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Commands\\UpdateTarea\\UpdateTareaCommandDto.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\Tareas\\Commands\\UpdateTarea\\UpdateTareaCommandDto.cs",
+              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Commands\\UpdateTarea\\UpdateTareaCommandDto.cs",
+              "RelativeToolTip": "Application\\UseCases\\Tareas\\Commands\\UpdateTarea\\UpdateTareaCommandDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:44:04.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CreateTareaCommand.cs",
               "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Commands\\CreateTarea\\CreateTareaCommand.cs",
               "RelativeDocumentMoniker": "Application\\UseCases\\Tareas\\Commands\\CreateTarea\\CreateTareaCommand.cs",
               "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Commands\\CreateTarea\\CreateTareaCommand.cs",
               "RelativeToolTip": "Application\\UseCases\\Tareas\\Commands\\CreateTarea\\CreateTareaCommand.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAEwBIAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAEwCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T22:22:07.031Z",
               "EditorCaption": ""
@@ -85,19 +126,136 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAIAwwEIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T00:25:25.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TareaController.cs",
+              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\BillZuletaReto01\\Controllers\\TareaController.cs",
+              "RelativeDocumentMoniker": "BillZuletaReto01\\Controllers\\TareaController.cs",
+              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\BillZuletaReto01\\Controllers\\TareaController.cs",
+              "RelativeToolTip": "BillZuletaReto01\\Controllers\\TareaController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T22:35:18.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateTareaCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Commands\\UpdateTarea\\UpdateTareaCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\Tareas\\Commands\\UpdateTarea\\UpdateTareaCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Commands\\UpdateTarea\\UpdateTareaCommandValidator.cs",
+              "RelativeToolTip": "Application\\UseCases\\Tareas\\Commands\\UpdateTarea\\UpdateTareaCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:42:06.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateTareaCommandModel.cs",
+              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Commands\\UpdateTarea\\UpdateTareaCommandModel.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\Tareas\\Commands\\UpdateTarea\\UpdateTareaCommandModel.cs",
+              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Commands\\UpdateTarea\\UpdateTareaCommandModel.cs",
+              "RelativeToolTip": "Application\\UseCases\\Tareas\\Commands\\UpdateTarea\\UpdateTareaCommandModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:43:33.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Application\\Common\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:42:58.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetTareaPorIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Queries\\GetTareaPorId\\GetTareaPorIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\Tareas\\Queries\\GetTareaPorId\\GetTareaPorIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Queries\\GetTareaPorId\\GetTareaPorIdQueryHandler.cs",
+              "RelativeToolTip": "Application\\UseCases\\Tareas\\Queries\\GetTareaPorId\\GetTareaPorIdQueryHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:04:20.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateTareaCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Commands\\CreateTarea\\CreateTareaCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\Tareas\\Commands\\CreateTarea\\CreateTareaCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Commands\\CreateTarea\\CreateTareaCommandValidator.cs",
+              "RelativeToolTip": "Application\\UseCases\\Tareas\\Commands\\CreateTarea\\CreateTareaCommandValidator.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAnwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T22:25:39.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetTareaPorIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Queries\\GetTareaPorId\\GetTareaPorIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\Tareas\\Queries\\GetTareaPorId\\GetTareaPorIdQuery.cs",
+              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Queries\\GetTareaPorId\\GetTareaPorIdQuery.cs",
+              "RelativeToolTip": "Application\\UseCases\\Tareas\\Queries\\GetTareaPorId\\GetTareaPorIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T01:17:50.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetTareaPorIdQueryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Queries\\GetTareaPorId\\GetTareaPorIdQueryDto.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\Tareas\\Queries\\GetTareaPorId\\GetTareaPorIdQueryDto.cs",
+              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Queries\\GetTareaPorId\\GetTareaPorIdQueryDto.cs",
+              "RelativeToolTip": "Application\\UseCases\\Tareas\\Queries\\GetTareaPorId\\GetTareaPorIdQueryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:14:08.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "GetTareasQuery.cs",
               "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Queries\\GetTareas\\GetTareasQuery.cs",
               "RelativeDocumentMoniker": "Application\\UseCases\\Tareas\\Queries\\GetTareas\\GetTareasQuery.cs",
               "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Queries\\GetTareas\\GetTareasQuery.cs",
               "RelativeToolTip": "Application\\UseCases\\Tareas\\Queries\\GetTareas\\GetTareasQuery.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowBQAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T22:23:33.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "GetTareasQueryDto.cs",
               "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Queries\\GetTareas\\GetTareasQueryDto.cs",
               "RelativeDocumentMoniker": "Application\\UseCases\\Tareas\\Queries\\GetTareas\\GetTareasQueryDto.cs",
@@ -110,46 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TareaController.cs",
-              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\BillZuletaReto01\\Controllers\\TareaController.cs",
-              "RelativeDocumentMoniker": "BillZuletaReto01\\Controllers\\TareaController.cs",
-              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\BillZuletaReto01\\Controllers\\TareaController.cs",
-              "RelativeToolTip": "BillZuletaReto01\\Controllers\\TareaController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAmwB0AAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T22:35:18.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\BillZuletaReto01\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "BillZuletaReto01\\Controllers\\BaseController.cs",
-              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\BillZuletaReto01\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "BillZuletaReto01\\Controllers\\BaseController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAIAzwBAAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T22:37:21.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateTareaCommandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Commands\\CreateTarea\\CreateTareaCommandValidator.cs",
-              "RelativeDocumentMoniker": "Application\\UseCases\\Tareas\\Commands\\CreateTarea\\CreateTareaCommandValidator.cs",
-              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Application\\UseCases\\Tareas\\Commands\\CreateTarea\\CreateTareaCommandValidator.cs",
-              "RelativeToolTip": "Application\\UseCases\\Tareas\\Commands\\CreateTarea\\CreateTareaCommandValidator.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAEwBsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T22:25:39.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
@@ -161,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\BillZuletaReto01\\appsettings.json",
               "RelativeDocumentMoniker": "BillZuletaReto01\\appsettings.json",
@@ -173,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "TareaConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Infrastructure\\Data\\Configurations\\TareaConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\Configurations\\TareaConfiguration.cs",
@@ -185,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "IDbContextFactory.cs",
               "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\BillZuletaReto01\\Infrastructure\\Common\\Factories\\IDbContextFactory.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Common\\Factories\\IDbContextFactory.cs",

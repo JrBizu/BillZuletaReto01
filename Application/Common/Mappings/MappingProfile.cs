@@ -1,7 +1,7 @@
 ﻿
 
 using Application.UseCases.Tareas.Commands.CreateTarea;
-using Application.UseCases.Tareas.Queries.GetTareaPorId;
+using Application.UseCases.Tareas.Commands.UpdateTarea;
 using AutoMapper;
 
 namespace Application.Common.Mappings
@@ -11,7 +11,7 @@ namespace Application.Common.Mappings
         public MappingProfile()
         {
             this.CreateMap<CreateTareaCommandModel, CreateTareaCommand>();
-            //this.CreateMap<GetTareaPorIdQueryDto, GetTareaPorIdQuery>();
+            this.CreateMap<UpdateTareaCommandModel, UpdateTareaCommand>();
         }
     }
 }

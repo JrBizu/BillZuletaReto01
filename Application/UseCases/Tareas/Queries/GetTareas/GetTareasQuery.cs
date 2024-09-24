@@ -13,7 +13,7 @@ namespace Application.UseCases.Tareas.Queries.GetTareas
             public async Task<Result<GetTareasQueryDto>> Handle(GetTareasQuery request, CancellationToken cancellationToken)
             {
                 var result = await repository.ListarTodosAsync();
-
+                
                 var tareas = result.Select(x => new GetTareasQueryValueDto
                 {
                     Id = x.Id,
